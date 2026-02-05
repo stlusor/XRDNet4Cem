@@ -117,7 +117,7 @@ XRDNet4Cem/
 
 # 🤝 Community Contributions
 
-## 📊 **Help Build the World's Largest Cement XRD Database!**
+## 📊 **Help Build Cement XRD Database!**
 
 We believe that collaborative science drives the fastest progress. Your contributions of high-quality labeled XRD data will help make XRDNet4Cem more accurate, robust, and comprehensive for the entire cement research community.
 
@@ -128,16 +128,16 @@ We believe that collaborative science drives the fastest progress. Your contribu
 We've designed a simple, organized submission system with three dedicated folders:
 
 ```
-Your_Contribution/
-├── XRD/                          # Folder for XRD pattern files
+New XRD data collection/
+├── Labelized XRD data/                          # Folder for XRD pattern files
 │   ├── OPC_7days_hydration.txt
 │   ├── CSA_clinker.csv
 │   └── Blended_cement_28d.xrd
-├── label/                        # Folder for quantitative analysis labels
+├── Label/                        # Folder for quantitative analysis labels
 │   ├── OPC_7days_hydration_label.csv
 │   ├── CSA_clinker_label.csv
 │   └── Blended_cement_28d_label.csv
-└── phase/                        # Folder for crystallographic information
+└── New phase/                        # Folder for crystallographic information
     ├── New_Alite_Polymorph.cif
     ├── Doped_Yeelimite.cif
     └── Special_AFm_Phase.cif
@@ -147,7 +147,7 @@ Your_Contribution/
 
 ### **📝 Detailed Submission Guidelines**
 
-#### **1. XRD Data Folder (`XRD/`)**
+#### **1. XRD Data Folder (`Labelized XRD data/`)**
 **What to include:**
 - Raw XRD patterns in any standard format (.txt, .csv, .xrd, .raw, .xy, .dat)
 - Recommended 2θ range: 5-70° for cement analysis
@@ -168,29 +168,22 @@ Angle,Intensity
 ...
 ```
 
-#### **2. Label Folder (`label/`)**
+#### **2. Label Folder (`Label/`)**
 **Each label file should correspond to an XRD file with the same base name.**
 
-**Required CSV format:**
+**Required CSV format: (It is recommented to follow the Label(Example).csv as a reference)**
 ```csv
-Phase_Name,Weight_Percent,Error_Method,Analyst,Date,Notes
-C3S,45.2,1.5,Rietveld,John Doe,2024-03-15,Monoclinic polymorph
-C2S,25.8,1.2,Rietveld,John Doe,2024-03-15,beta-C2S
-C3A,8.5,0.8,Rietveld,John Doe,2024-03-15,Cubic C3A
-C4AF,9.3,0.9,Rietveld,John Doe,2024-03-15,Brownmillerite
-Gypsum,5.2,0.5,Rietveld,John Doe,2024-03-15,Calcium sulfate dihydrate
-Calcite,3.5,0.4,Rietveld,John Doe,2024-03-15,Minor carbonate phase
-Amorphous,2.5,1.0,Estimation,John Doe,2024-03-15,C-S-H gel
+Phase_Name,Weight_Percent
+C3S,45.2
+C2S,25.8
+C3A,8.5
+C4AF,9.3
+Gypsum,5.2
+Calcite,3.5
+Amorphous,2.5
 ```
 
-**Labeling methods we accept:**
-- ✅ Rietveld refinement (preferred)
-- ✅ Internal standard method
-- ✅ PONKCS method
-- ✅ Reference intensity ratio (RIR)
-- ⚠️ Expert estimation (please note in "Notes" column)
-
-#### **3. Phase Folder (`phase/`)**
+#### **3. Phase Folder (`New phase/`)**
 **For any new or unusual phases in your samples:**
 - Provide standard .cif files (Crystallographic Information Files)
 - Sources: ICSD, COD, or your own refined structures
