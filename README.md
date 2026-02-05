@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version">
   <img src="https://img.shields.io/badge/Python-3.8%2B-green" alt="Python">
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
-  <img src="https://img.shields.io/badge/Platform-Windows%7CLinux%7CMacOS-lightgrey" alt="Platform">
+  <img src="https://img.shields.io/badge/Platform-Windows-lightgrey" alt="Platform">
 </p>
 
 ## 🎯 Overview
