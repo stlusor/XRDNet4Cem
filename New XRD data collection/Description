@@ -1,1 +1,7 @@
 This collections of XRD data will be implemented into the training process to increase the prediction performance.
+
+Instructions:
+
+1. The XRD data format can be .txt, .xye, .xy or any text format.
+2. The standard format of the label can refer the example files (If you think the process is cumbersome, you can leave any information about the existed phase and content)
+3. If the phase type for your file is not listed in the table, you can upload the corresponding .cif file and name it with the standard name of that phase.
