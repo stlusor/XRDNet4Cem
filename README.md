@@ -44,6 +44,16 @@
 3. **Double-click** `XRDNet4Cem.bat`
 4. **Start analyzing** your XRD data!
 
+## Instructions
+1.Step 1: Data preprocessing module
+<img width="1446" height="792" alt="image" src="https://github.com/user-attachments/assets/8c842420-ed41-4ce9-9b87-f16761daae5d" />
+
+2.Step 2: AI analysis module
+<img width="1435" height="838" alt="image" src="https://github.com/user-attachments/assets/e87ba7df-4fcd-4177-9b58-b18418bf0abb" />
+
+3.Step 3: GSAS-II refinement module
+<img width="1291" height="753" alt="image" src="https://github.com/user-attachments/assets/a05569d8-5cf6-4119-af34-d8baba9357ad" />
+
 
 ## 📁 Project Structure
 
