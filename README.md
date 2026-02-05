@@ -226,7 +226,7 @@ Amorphous,2.5
 If you use XRDNet4Cem in your research, please cite:
 
 ```bibtex
-@article{lu2025xrdnet4cem,
+@article{luxrdnet4cem,
   title={Physics-informed deep learning for automated phase identification 
          of cementitious materials: A high-throughput pre-screening framework},
   author={Lu, Jia-Hao and Ding, Siqi and Zhang, Yangyang},
