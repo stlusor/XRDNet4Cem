@@ -253,8 +253,8 @@ This project is licensed under the MIT License - see the [[LICENSE](https://gith
 
 **Research Team:**
 - Jia-Hao Lu (jia-hao.lu@connect.polyu.hk) - First author
-- Siqi Ding (siqi.ding@polyu.edu.hk) - Corresponding author
-- Yangyang Zhang (zhangyangyang@ysu.edu.cn) - Corresponding author
+- Siqi Ding (s.q.ding@polyu.edu.hk) - Corresponding author
+- Yangyang Zhang (yangyangzhang@ysu.edu.cn) - Corresponding author
 
 
 **Repository:** https://github.com/stlusor/XRDNet4Cem
