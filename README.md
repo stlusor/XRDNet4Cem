@@ -240,7 +240,7 @@ If you use XRDNet4Cem in your research, please cite:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [[LICENSE](https://github.com/stlusor/XRDNet4Cem/blob/main/License)](LICENSE) file for details.
+This project is licensed under the MIT License - see the [[LICENSE](https://github.com/stlusor/XRDNet4Cem/blob/main/License)] file for details.
 
 ## 🙏 Acknowledgments
 
