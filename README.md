@@ -28,7 +28,7 @@
 - **>95% accuracy** for major cement phases
 - **<2 seconds** per sample analysis
 - **±2 wt.% precision** for quantitative estimates
-- **130 supported phases** covering OPC, CSA, CAC systems
+- **130 supported phases** covering OPC, CSA systems
 
 ### 🛠️ **User-Friendly Interface**
 - **Graphical User Interface (GUI)** for intuitive operation
