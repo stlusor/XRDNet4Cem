@@ -44,7 +44,7 @@
 3. **Double-click** `XRDNet4Cem.bat`
 4. **Start analyzing** your XRD data!
 
-## Instructions
+## ▶️ Instructions
 **Step 1: Data preprocessing module**
 **    Import your XRD data file (.txt, .csv, .xye). The raw diffraction pattern will be displayed. Click the processing buttons in sequence: Resample to standardize the angle range, Subtract Background to remove noise, and Normalize the intensity. Finally, save the processed data or send it to the AI module.**
 <img width="1446" height="792" alt="image" src="https://github.com/user-attachments/assets/8c842420-ed41-4ce9-9b87-f16761daae5d" />
