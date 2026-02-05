@@ -1,0 +1,37 @@
+data_global
+_chemical_name_mineral 'C3S3H Rosenhahnite'
+_symmetry_space_group_name_H-M p-1
+_cell_length_a 6.95599985122681
+_cell_length_b 9.48400020599365
+_cell_length_c 6.81199979782105
+_cell_angle_alpha 108.599998474121
+_cell_angle_beta 94.8000030517578
+_cell_angle_gamma 95.9000015258789
+_cell_volume 420.418473747252
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 CA2+ i 0.2799 0.345 0.184 1 0.67
+s2 CA2+ i 0.096 0.6801 0.2429 1 0.64
+s3 CA2+ i 0.8465 0.0086 0.267 1 0.7
+s4 SI4+ i 0.3041 0.0488 0.2772 1 0.49
+s5 SI4+ i 0.6243 0.6615 0.329 1 0.49
+s6 SI4+ i 0.802 0.3761 0.2703 1 0.52
+s7 O2- i 0.1928 0.0874 0.0902 1 0.83
+s8 O2- i 0.5003 0.9696 0.2131 1 0.99
+s9 O2- i 0.1594 0.948 0.3668 1 0.75
+s10 O2- i 0.3938 0.2132 0.4471 1 0.8
+s11 O2- i 0.7694 0.7254 0.1969 1 0.69
+s12 O2- i 0.4085 0.5931 0.2071 1 0.67
+s13 O2- i 0.7211 0.533 0.4128 1 0.71
+s14 O2- i 0.6082 0.295 0.0911 1 0.82
+s15 O2- i 0.856 0.2716 0.4015 1 0.78
+s16 O2- i 0.9748 0.4193 0.1475 1 0.72
+s17 H i 0.524 0.101 0.878 1 3
+s18 H i 0.602 0.342 0.98 1 0.8

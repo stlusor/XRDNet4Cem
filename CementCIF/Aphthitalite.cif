@@ -1,0 +1,29 @@
+data_global
+_chemical_name_mineral 'Aphthitalite (Okada)'
+_symmetry_space_group_name_H-M p3m1
+_cell_length_a 5.60699987411499
+_cell_length_b 5.60699987411499
+_cell_length_c 10     
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 120    
+_cell_volume 272.264942670355
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 K1+ a 0 0 0 1 1
+s2 Na1+ a 0 0 0.504 1 1
+s3 Na1+ c 0.666666666666667 0.333333333333333 0.689 1 1
+s4 K1+ b 0.333333333333333 0.666666666666667 0.309 1 1
+s5 S c 0.666666666666667 0.333333333333333 0.234 1 1
+s6 S b 0.333333333333333 0.666666666666667 0.764 1 1
+s7 O2- c 0.666666666666667 0.333333333333333 0.026 1 1
+s8 O2- b 0.333333333333333 0.666666666666667 0.955 1 1
+s9 O2- d 0.187 0.813 0.71 1 1
+s10 O2- d 0.803 0.197 0.314 1 1

@@ -1,0 +1,27 @@
+data_global
+_chemical_name_mineral 'C4AF (Colville)'
+_symmetry_space_group_name_H-M ima2
+_cell_length_a 5.58400011062622
+_cell_length_b 14.6000003814697
+_cell_length_c 5.37400007247925
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 438.122899636052
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 CA2+ a 0.0273 0.1087 0.492 1 1
+s2 FE3+ a 0 0 0 0.76 1
+s3 AL3+ a 0 0 0 0.24 1
+s4 FE3+ a 0.9283 0.25 0.9533 0.24 1
+s5 AL3+ a 0.9283 0.25 0.9533 0.76 1
+s6 O2- a 0.2523 0.9861 0.2491 1 1
+s7 O2- a 0.068 0.1439 0.0246 1 1
+s8 O2- a 0.8607 0.25 0.6193 1 1

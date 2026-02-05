@@ -1,0 +1,22 @@
+data_global
+_chemical_name_mineral 'Goethite'
+_symmetry_space_group_name_H-M pnma
+_cell_length_a 9.96000003814697
+_cell_length_b 3.02300000190735
+_cell_length_c 4.60500001907349
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 138.652314592808
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 FE3+ c 0.3539 0.25 0.4523 1 0.4
+s2 O2- c 0.6996 0.25 0.792 1 1
+s3 O2- c 0.5531 0.25 0.296 1 1

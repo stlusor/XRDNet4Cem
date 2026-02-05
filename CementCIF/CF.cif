@@ -1,0 +1,26 @@
+data_global
+_chemical_name_mineral 'CF'
+_symmetry_space_group_name_H-M pnma
+_cell_length_a 9.23099994659424
+_cell_length_b 3.02300000190735
+_cell_length_c 10.7040004730225
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 298.698482012188
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 FE3+ c 0.933 0.25 0.11 1 1
+s2 FE3+ c 0.92 0.25 0.608 1 1
+s3 CA2+ c 0.256 0.25 0.154 1 1
+s4 O2- c 0.708 0.25 0.662 1 1
+s5 O2- c 0.615 0.25 0.977 1 1
+s6 O2- c 0.021 0.25 0.284 1 1
+s7 O2- c 0.919 0.25 0.924 1 1

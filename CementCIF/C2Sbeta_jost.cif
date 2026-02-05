@@ -1,0 +1,26 @@
+data_global
+_chemical_name_mineral 'C2S beta (JOST)'
+_symmetry_space_group_name_H-M p121/c1
+_cell_length_a 5.5019998550415
+_cell_length_b 6.74499988555908
+_cell_length_c 9.29699993133545
+_cell_angle_alpha 90     
+_cell_angle_beta 94.5899963378906
+_cell_angle_gamma 90     
+_cell_volume 343.914328329106
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 Ca2+ e 0.2738 0.3428 0.5694 1 0.25
+s2 Ca2+ e 0.2798 0.9976 0.2981 1 0.25
+s3 Si4+ e 0.2324 0.7814 0.5817 1 0.25
+s4 O2- e 0.2864 0.0135 0.5599 1 0.5
+s5 O2- e 0.0202 0.7492 0.6919 1 0.5
+s6 O2- e 0.4859 0.6682 0.6381 1 0.5
+s7 O2- e 0.1558 0.671 0.4264 1 0.5

@@ -1,0 +1,23 @@
+data_global
+_chemical_name_mineral 'Anhydrite'
+_symmetry_space_group_name_H-M cmcm
+_cell_length_a 6.99399995803833
+_cell_length_b 6.23699998855591
+_cell_length_c 6.98999977111816
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 304.914817846946
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 CA2+ c 0 0.654 0.25 1 0.7
+s2 S c 0 0.155 0.25 1 0.7
+s3 O2- g 0.329 0.515 0.25 1 0.9
+s4 O2- f 0 0.702 0.92 1 1.1

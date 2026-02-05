@@ -1,0 +1,40 @@
+data_global
+_chemical_name_mineral 'C3S rhombohedric (NISHI)'
+_symmetry_space_group_name_H-M r3m
+_cell_length_a 7.13500022888184
+_cell_length_b 7.13500022888184
+_cell_length_c 25.5860004425049
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 120    
+_cell_volume 1128.03095491144
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 CA2+ b 0.8213 0.1787 0.6657 1 5.78
+s2 CA2+ b 0.1593 0.8407 0.7777 1 7.26
+s3 CA2+ b 0.8423 0.1577 0.8917 1 3.95
+s4 SI4+ a 0 0 0 1 2.05
+s5 SI4+ a 0 0 0.213 1 5
+s6 SI4+ a 0 0 0.784 1 2.72
+s7 O2- a 0 0 0.385 1 3
+s8 O2- a 0 0 0.504 1 13
+s9 O2- a 0 0 0.627 1 1
+s10 O2- b 0.3903 0.6097 0.7237 0.33 36
+s11 O2- b 0.2033 0.7967 0.6737 0.33 11
+s12 O2- c 0.223 0.148 0.968 0.33 11
+s13 O2- b 0.3493 0.6507 0.9427 0.1 1
+s14 O2- b 0.2053 0.7947 0.8657 0.1 1
+s15 O2- c 0.241 0.13 0.188 0.1 1
+s16 O2- b 0.3653 0.6347 0.8187 0.23 1
+s17 O2- b 0.2023 0.7977 0.8857 0.23 1
+s18 O2- c 0.234 0.137 0.241 0.23 1
+s19 O2- b 0.3013 0.6987 0.5117 0.33 5
+s20 O2- b 0.4643 0.5357 0.4447 0.33 22
+s21 O2- c 0.137 0.234 0.756 0.33 22

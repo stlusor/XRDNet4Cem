@@ -1,0 +1,37 @@
+data_global
+_chemical_name_mineral 'Cordierite'
+_symmetry_space_group_name_H-M cccm
+_cell_length_a 17.0799999237061
+_cell_length_b 9.72999954223633
+_cell_length_c 9.35700035095215
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 1555.02483701942
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 AL3+ k 0.25 0.25 0.7498 1 0.5
+s2 SI4+ b 0 0.5 0.25 1 0.5
+s3 SI4+ l 0.3074 0.4222 0 1 0.5
+s4 AL3+ l 0.4492 0.1921 0 1 0.5
+s5 SI4+ l 0.6352 0.2625 0 1 0.5
+s6 O2- m 0.2474 0.1029 0.141 1 0.5
+s7 O2- m 0.062 0.416 0.1512 1 0.5
+s8 O2- m 0.8268 0.3101 0.1416 1 0.5
+s9 O2- l 0.3777 0.3161 0 1 0.5
+s10 O2- l 0.543 0.2524 0 1 0.5
+s11 O2- l 0.6645 0.4208 0 1 0.5
+s12 MG2+ g 0.3375 0 0.25 0.95 0.5
+s13 FE2+ g 0.3375 0 0.25 0.05 0.5
+s14 NA1+ c 0 0 0 0.05 5
+s15 CA2+ c 0 0 0 0.02 5
+s16 H m 0 0.2397 0.14 1 5
+s17 H m 0.0174 0.0833 0.305 0.14 5
+s18 O2- g 0.973 0 0.25 0.28 0.5

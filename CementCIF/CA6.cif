@@ -1,0 +1,30 @@
+data_global
+_chemical_name_mineral 'Hibonite'
+_symmetry_space_group_name_H-M p63/mmc
+_cell_length_a 5.56400012969971
+_cell_length_b 5.56400012969971
+_cell_length_c 21.8920001983643
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 120    
+_cell_volume 586.935445895732
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 Ca2+ d 0.333333333333333 0.666666666666667 0.75 1 1
+s2 Al3+ k 0.1687 0.3374 0.8911 1 1
+s3 Al3+ f 0.333333333333333 0.666666666666667 0.028 1 1
+s4 Al3+ f 0.333333333333333 0.666666666666667 0.1904 1 1
+s5 Al3+ a 0 0 0 1 1
+s6 Al3+ b 0 0 0.25 1 1
+s7 O2- k 0.1549 0.3098 0.0524 1 1
+s8 O2- k 0.5036 0.0072000000000001 0.1501 1 1
+s9 O2- f 0.333333333333333 0.666666666666667 0.9445 1 1
+s10 O2- e 0 0 0.1501 1 1
+s11 O2- h 0.1806 0.3612 0.25 1 1

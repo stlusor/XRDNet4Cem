@@ -1,0 +1,27 @@
+data_global
+_chemical_name_mineral 'Bassanite Galitelli modified'
+_symmetry_space_group_name_H-M p3221
+_cell_length_a 6.90000009536743
+_cell_length_b 6.90000009536743
+_cell_length_c 10     
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 120    
+_cell_volume 412.314706139277
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 Ca2+ b 0.45 0 0.166666666666667 0.5 1
+s2 Ca2+ a 0.45 0 0.666666666666667 0.5 1
+s3 S c 0.45 0 0.416666666666667 1 0.7
+s4 O2- c 0.344 0.105 0.48367 1 1.2
+s5 O2- c 0.555 0.895 0.48367 1 1.2
+s6 O2- c 0.271 0.821 0.34867 1 1.2
+s7 O2- c 0.628 0.179 0.34867 1 1.2
+s8 O2- a 0 0 0.666666666666667 0.5 1.5

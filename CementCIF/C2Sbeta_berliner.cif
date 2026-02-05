@@ -1,0 +1,26 @@
+data_global
+_chemical_name_mineral 'C2S beta (Berliner)'
+_symmetry_space_group_name_H-M p121/c1
+_cell_length_a 5.51000022888184
+_cell_length_b 6.76999998092651
+_cell_length_c 9.32999992370605
+_cell_angle_alpha 90     
+_cell_angle_beta 94.1999969482422
+_cell_angle_gamma 90     
+_cell_volume 347.09954921311
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 Ca2+ e 0.2712 0.3442 0.5698 1 0.25
+s2 Ca2+ e 0.2729 0.9979 0.3001 1 0.25
+s3 Si4+ e 0.2338 0.7811 0.5825 1 0.25
+s4 O2- e 0.2802 0.0117 0.5602 1 0.5
+s5 O2- e 0.0242 0.7454 0.6902 1 0.5
+s6 O2- e 0.4855 0.6737 0.6403 1 0.5
+s7 O2- e 0.1592 0.6711 0.4293 1 0.5

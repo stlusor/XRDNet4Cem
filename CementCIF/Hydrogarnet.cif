@@ -1,0 +1,23 @@
+data_global
+_chemical_name_mineral 'Hydrogarnet'
+_symmetry_space_group_name_H-M ia-3d
+_cell_length_a 12.5754995346069
+_cell_length_b 12.5754995346069
+_cell_length_c 12.5754995346069
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 1988.72959394764
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 Ca2+ c 0.125 0 0.25 1 1
+s2 Al3+ a 0 0 0 1 1
+s3 O2- h 0.029 0.0527 0.6401 1 1
+s4 H h 0.1719 0.0959 0.794 1 1

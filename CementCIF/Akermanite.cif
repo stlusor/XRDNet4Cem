@@ -1,0 +1,25 @@
+data_global
+_chemical_name_mineral 'Akermanite'
+_symmetry_space_group_name_H-M p-421m
+_cell_length_a 7.83199977874756
+_cell_length_b 7.83199977874756
+_cell_length_c 5.00299978256226
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 306.885109995433
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 CA2+ e 0.8318 0.3318 0.4937 1 1.62
+s2 MG2+ a 0 0 0 1 1.02
+s3 SI4+ e 0.6399 0.1399 0.0643 1 0.88
+s4 O2- c 0 0.5 0.8182 1 2.38
+s5 O2- e 0.3594 0.8594 0.7452 1 1.87
+s6 O2- f 0.08 0.1867 0.785 1 2.07

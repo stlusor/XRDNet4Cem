@@ -1,0 +1,28 @@
+data_global
+_chemical_name_mineral 'Gaylussite'
+_symmetry_space_group_name_H-M c12/c1
+_cell_length_a 14.3500003814697
+_cell_length_b 7.78000020980835
+_cell_length_c 11.2069997787476
+_cell_angle_alpha 90     
+_cell_angle_beta 127.800003051758
+_cell_angle_gamma 90     
+_cell_volume 988.628591233645
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 NA1+ f 0.4122 0.8182 0.5109 1 0.86
+s2 CA2+ e 0 0.3065 0.25 1 0.4
+s3 O2- f 0.3345 0.9902 0.0894 1 0.58
+s4 O2- f 0.3962 0.996 0.3245 1 0.74
+s5 O2- f 0.2149 0.0909 0.1367 1 0.72
+s6 O2- f 0.3526 0.5965 0.1893 1 0.82
+s7 O2- f 0.5707 0.7073 0.5034 1 0.75
+s8 O2- e 0 0.8191 0.25 1 0.76
+s9 C f 0.3153 0.0266 0.1844 1 0.36

@@ -1,0 +1,23 @@
+data_global
+_chemical_name_mineral 'Diaspore'
+_symmetry_space_group_name_H-M pnma
+_cell_length_a 9.42500019073486
+_cell_length_b 2.84500002861023
+_cell_length_c 4.40000009536743
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 117.98215613128
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 AL3+ c 0.6445 0.25 0.5447 1 1.2
+s2 O2- c 0.3011 0.25 0.2123 1 1.9
+s3 O2- c 0.4466 0.25 0.6971 1 1.4
+s4 H c 0.4124 0.25 0.9095 1 1.4

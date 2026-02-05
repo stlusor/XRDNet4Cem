@@ -1,0 +1,28 @@
+data_global
+_chemical_name_mineral 'Brownmillerite(Si,Mg)'
+_symmetry_space_group_name_H-M pnma
+_cell_length_a 5.42999982833862
+_cell_length_b 14.7779998779297
+_cell_length_c 5.59600019454956
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 449.048443546278
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 CA2+ d 0.4848 0.1084 0.9711 1 0.29
+s2 FE3+ a 0 0 0 0.78 0.29
+s3 MG2+ a 0 0 0 0.23 0.29
+s4 FE3+ c 0.4498 0.25 0.4387 0.63 0.29
+s5 MG2+ c 0.4498 0.25 0.4387 0.07 0.29
+s6 SI4+ c 0.4498 0.25 0.4387 0.3 0.29
+s7 O2- d 0.255 0.9839 0.7655 1 0.29
+s8 O2- d 0.034 0.1398 0.929 1 0.29
+s9 O2- c 0.105 0.25 0.348 1 0.29

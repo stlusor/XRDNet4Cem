@@ -1,0 +1,26 @@
+data_global
+_chemical_name_mineral 'CA2 Grossite'
+_symmetry_space_group_name_H-M c12/c1
+_cell_length_a 12.8699998855591
+_cell_length_b 8.88000011444092
+_cell_length_c 5.44000005722046
+_cell_angle_alpha 90     
+_cell_angle_beta 106.800003051758
+_cell_angle_gamma 90     
+_cell_volume 595.17861149652
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 CA2+ e 0 0.1908 0.25 1 1.58
+s2 AL3+ f 0.1647 0.9137 0.3029 1 1.48
+s3 AL3+ f 0.1195 0.5589 0.2418 1 1.59
+s4 O2- e 0 0.4675 0.25 1 2.2
+s5 O2- f 0.1149 0.9493 0.5641 1 1.95
+s6 O2- f 0.1195 0.7476 0.1482 1 1.83
+s7 O2- f 0.1935 0.5581 0.5805 1 1.86

@@ -1,0 +1,28 @@
+data_global
+_chemical_name_mineral 'Langbeinite (Speer)'
+_symmetry_space_group_name_H-M p213
+_cell_length_a 10.4288997650147
+_cell_length_b 10.4288997650147
+_cell_length_c 10.4288997650147
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 1134.26747801717
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 K1+ a 0.8158 0.8158 0.8158 1 1
+s2 K1+ a 0.052 0.052 0.052 1 1
+s3 Ca2+ a 0.3301 0.3301 0.3301 1 1
+s4 Ca2+ a 0.5885 0.5885 0.5885 1 1
+s5 S b 0.2281 0.3746 0.0095 1 1
+s6 O2- b 0.3159 0.2805 0.9584 1 1
+s7 O2- b 0.1008 0.3224 0.0088 1 1
+s8 O2- b 0.2334 0.4844 0.9273 1 1
+s9 O2- b 0.2652 0.4156 0.1352 1 1

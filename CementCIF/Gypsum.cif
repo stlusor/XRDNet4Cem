@@ -1,0 +1,24 @@
+data_global
+_chemical_name_mineral 'Gypsum'
+_symmetry_space_group_name_H-M c12/c1
+_cell_length_a 6.52199983596802
+_cell_length_b 15.2019996643066
+_cell_length_c 5.67899990081787
+_cell_angle_alpha 90     
+_cell_angle_beta 118.400001525879
+_cell_angle_gamma 90     
+_cell_volume 495.29342118618
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 CA2+ e 0.25 0.4213 0 1 0.88
+s2 S e 0.25 0.9216 0 1 0.66
+s3 O2- f 0.5505 0.1319 0.9632 1 1.49
+s4 O2- f 0.6671 0.0223 0.7582 1 1.41
+s5 O2- f 0.4588 0.1821 0.3796 1 2.19
