@@ -1,0 +1,23 @@
+data_global
+_chemical_name_mineral 'Vaterite'
+_symmetry_space_group_name_H-M p63/mmc
+_cell_length_a 4.13000011444092
+_cell_length_b 4.13000011444092
+_cell_length_c 8.48999977111816
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 120    
+_cell_volume 125.411810515556
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 CA2+ a 0 0 0 1 6.8
+s2 C h 0.29 0.58 0.25 0.33 6.8
+s3 O h 0.12 0.24 0.25 0.33 6.8
+s4 O k 0.38 0.76 0.38 0.33 6.8

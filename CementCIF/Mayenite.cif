@@ -1,0 +1,25 @@
+data_global
+_chemical_name_mineral 'C12A7 Mayenite'
+_symmetry_space_group_name_H-M i-43d
+_cell_length_a 11.9799995422363
+_cell_length_b 11.9799995422363
+_cell_length_c 11.9799995422363
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 1719.37419490473
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 CA2+ d 0.6086 0 0.25 1 1.22
+s2 AL3+ c 0.7681 0.7681 0.7681 1 0.8
+s3 AL3+ b 0.875 0 0.25 1 0.57
+s4 O2- e 0.1509 0.9632 0.0583 1 0.82
+s5 O2- c 0.6854 0.6854 0.6854 1 0.84
+s6 O2- d 0.399 0 0.25 0.083 0.85

@@ -1,0 +1,28 @@
+data_global
+_chemical_name_mineral 'Mullite 3:2'
+_symmetry_space_group_name_H-M pbam
+_cell_length_a 7.54370021820068
+_cell_length_b 7.69409990310669
+_cell_length_c 2.88700008392334
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 167.567210132523
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 AL3+ a 0 0 0 1 0.63
+s2 AL3+ h 0.149 0.3403 0.5 0.54 0.68
+s3 SI4+ h 0.149 0.3403 0.5 0.33 0.68
+s4 AL3+ h 0.2625 0.2053 0.5 0.08 0.63
+s5 SI4+ h 0.2625 0.2053 0.5 0.04 0.63
+s6 O2- h 0.359 0.4218 0.5 1 1.06
+s7 O2- h 0.4498 0.0505 0.5 0.13 0.93
+s8 O2- d 0 0.5 0.5 0.63 1.56
+s9 O2- g 0.1273 0.2186 0 1 1.1

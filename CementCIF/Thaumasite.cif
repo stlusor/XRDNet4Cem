@@ -1,0 +1,42 @@
+data_global
+_chemical_name_mineral 'Thaumasite (Taylor)'
+_symmetry_space_group_name_H-M p63
+_cell_length_a 11.039999961853
+_cell_length_b 11.039999961853
+_cell_length_c 10.3900003433228
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 120    
+_cell_volume 1096.69114632166
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 Ca2+ c 0.1946 0.9883 0.2619 1 1
+s2 Si4+ a 0 0 0.0026 1 1
+s3 C b 0.333333333333333 0.666666666666667 0.456 1 1
+s4 S b 0.333333333333333 0.666666666666667 0.9973 1 1
+s5 O2- c 0.392 0.228 0.261 1 1
+s6 O2- c 0.26 0.401 0.259 1 1
+s7 O2- c 0.0025 0.3411 0.082 1 1
+s8 O2- c 0.0217 0.3467 0.4421 1 1
+s9 O2- c 0.2014 0.6223 0.47 1 1
+s10 O2- c 0.1914 0.6229 0.0431 1 1
+s11 O2- c 0.1312 0.1249 0.115 1 1
+s12 O2- c 0.13 0.1242 0.4052 1 1
+s13 O2- b 0.333333333333333 0.666666666666667 0.855 1 1
+s14 H c 0.3471 0.29 0.26 1 1
+s15 H c 0.488 0.265 0.297 1 1
+s16 H c 0.303 0.465 0.333 1 1
+s17 H c 0.311 0.462 0.183 1 1
+s18 H c 0.439 0.079 0.042 1 1
+s19 H c 0.069 0.441 0.068 1 1
+s20 H c 0.0851 0.444 0.452 1 1
+s21 H c 0.41 0.053 0.478 1 1
+s22 H c 0.215 0.178 0.111 1 1
+s23 H c 0.213 0.18 0.413 1 1

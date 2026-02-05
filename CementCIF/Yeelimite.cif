@@ -1,0 +1,48 @@
+data_global
+_chemical_name_mineral 'Ca4Al6O12SO4'
+_symmetry_space_group_name_H-M pcc2
+_cell_length_a 13.0270004272461
+_cell_length_b 13.03600025177
+_cell_length_c 9.15999984741211
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 1555.55099866792
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 S e 0.2537 0.2487 0.9822 1 1.9
+s2 O2- e 0.729 0.317 0.612 1 7.5
+s3 O2- e 0.838 0.184 0.46 1 7.5
+s4 O2- e 0.77 0.336 0.379 1 7.5
+s5 O2- e 0.651 0.201 0.417 1 7.5
+s6 CA2+ e 0.058 0.251 0.149 1 2.1
+s7 CA2+ e 0.237 0.926 0.286 1 2.1
+s8 CA2+ e 0.257 0.512 0.254 1 2.1
+s9 CA2+ e 0.483 0.253 0.228 1 2.1
+s10 AL3+ d 0.5 0.5 0.73 1 0.4
+s11 AL3+ c 0.5 0 0.75 1 0.4
+s12 AL3+ a 0 0 0.705 1 0.4
+s13 AL3+ b 0 0.5 0.7 1 0.4
+s14 AL3+ e 0.627 0.121 0.996 1 0.2
+s15 AL3+ e 0.122 0.625 0.949 1 0.2
+s16 AL3+ e 0.369 0.629 0.98 1 0.2
+s17 AL3+ e 0.122 0.876 0.96 1 0.2
+s18 O2- e 0.4 0.246 0.438 1 1.38
+s19 O2- e 0.567 0.409 0.14 1 1.38
+s20 O2- e 0.555 0.105 0.155 1 1.38
+s21 O2- e 0.755 0.59 0.504 1 1.38
+s22 O2- e 0.596 0.443 0.826 1 1.38
+s23 O2- e 0.907 0.446 0.802 1 1.38
+s24 O2- e 0.757 0.902 0.536 1 1.38
+s25 O2- e 0.901 0.034 0.824 1 1.38
+s26 O2- e 0.608 0.033 0.854 1 1.38
+s27 O2- e 0.103 0.247 0.391 1 1.38
+s28 O2- e 0.953 0.115 0.125 1 1.38
+s29 O2- e 0.948 0.389 0.11 1 1.38

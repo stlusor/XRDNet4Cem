@@ -1,0 +1,36 @@
+data_global
+_chemical_name_mineral 'Microcline intermediate1'
+_symmetry_space_group_name_H-M p-1
+_cell_length_a 8.64299964904785
+_cell_length_b 12.9289999008179
+_cell_length_c 7.19000005722046
+_cell_angle_alpha 90.0999984741211
+_cell_angle_beta 116.199996948242
+_cell_angle_gamma 89.5999984741211
+_cell_volume 720.88300167609
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 K1+ a 0.2867 0.9985 0.1406 1 2.33
+s2 SI4+ a 0.0095 0.1844 0.2225 0.75 0.92
+s3 AL3+ a 0.0095 0.1844 0.2225 0.25 0.92
+s4 SI4+ a 0.0091 0.8168 0.2249 0.75 0.9
+s5 AL3+ a 0.0091 0.8168 0.2249 0.25 0.9
+s6 SI4+ a 0.7105 0.1184 0.3413 0.75 0.97
+s7 AL3+ a 0.7105 0.1184 0.3413 0.25 0.97
+s8 SI4+ a 0.7095 0.8826 0.3433 0.75 1.09
+s9 AL3+ a 0.7095 0.8826 0.3433 0.25 1.09
+s10 O2- a 0.0005 0.144 0.9977 1 2.12
+s11 O2- a 0.6382 0.0011 0.2809 1 2.01
+s12 O2- a 0.8251 0.1472 0.2228 1 2.4
+s13 O2- a 0.8278 0.8534 0.2274 1 2.5
+s14 O2- a 0.0367 0.3116 0.258 1 1.96
+s15 O2- a 0.0378 0.6903 0.2602 1 1.78
+s16 O2- a 0.1815 0.124 0.4075 1 1.93
+s17 O2- a 0.179 0.8749 0.4085 1 1.97

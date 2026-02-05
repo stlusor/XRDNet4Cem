@@ -1,0 +1,29 @@
+data_global
+_chemical_name_mineral 'Trona'
+_symmetry_space_group_name_H-M c12/c1
+_cell_length_a 20.4220008850098
+_cell_length_b 3.4909999370575
+_cell_length_c 10.3330001831055
+_cell_angle_alpha 90     
+_cell_angle_beta 106.5  
+_cell_angle_gamma 90     
+_cell_volume 706.336311356874
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 NA1+ e 0 0.7464 0.25 1 1.69
+s2 NA1+ f 0.1507 0.1645 0.4259 1 2
+s3 C f 0.0931 0.2653 0.1035 1 1.29
+s4 O2- f 0.1511 0.3995 0.102 1 1.78
+s5 O2- f 0.0544 0.131 0.988 1 1.75
+s6 O2- f 0.0724 0.2533 0.2076 1 1.56
+s7 O2- f 0.2121 0.6646 0.3544 1 1.56
+s8 H f 0.194 0.612 0.269 1 3.47
+s9 H f 0.248 0.724 0.362 1 4.03
+s10 H f 0.022 0.035 0.996 0.5 1.34

@@ -1,0 +1,23 @@
+data_global
+_chemical_name_mineral 'Tridymite orthorhombic'
+_symmetry_space_group_name_H-M ama2
+_cell_length_a 8.27000045776367
+_cell_length_b 8.75   
+_cell_length_c 5.05200004577637
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 365.575373547936
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 SI4+ c 0.9376 0.1667 0.5 1 2
+s2 O2- b 0.25 0.336 0.923 1 2
+s3 O2- a 0 0 0.592 1 2
+s4 O2- c 0.04 0.219 0.256 1 2

@@ -1,0 +1,27 @@
+data_global
+_chemical_name_mineral 'Thermonatrite'
+_symmetry_space_group_name_H-M pca21
+_cell_length_a 10.7239999771118
+_cell_length_b 5.25899982452393
+_cell_length_c 6.47399997711182
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 365.117504331087
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 NA1+ 0.1938 0.1398 0 1 1.43
+s2 NA1+ 0.002 0.6214 0.0651 1 1.46
+s3 C 0.2556 0.6025 0.7849 1 0.91
+s4 O 0.1381 0.5457 0.799 1 1.67
+s5 O 0.3369 0.4267 0.7973 1 1.41
+s6 O 0.2876 0.8361 0.7602 1 1.49
+s7 O 0.9704 0.0683 0.0325 1 1.66
+s8 H 0.94 0.15 0.11 1 0
+s9 H 0.92 0.12 0.9 1 0

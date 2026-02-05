@@ -1,0 +1,47 @@
+data_global
+_chemical_name_mineral 'Melanterite'
+_symmetry_space_group_name_H-M p121/c1
+_cell_length_a 14.0719995498657
+_cell_length_b 6.50299978256226
+_cell_length_c 11.0410003662109
+_cell_angle_alpha 90     
+_cell_angle_beta 105.569999694824
+_cell_angle_gamma 90     
+_cell_volume 973.287169725667
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 Fe2+ a 0 0 0 1 1
+s2 Fe2+ d 0.5 0.5 0 1 1
+s3 S e 0.2267 0.4709 0.1763 1 1
+s4 O2- e 0.2045 0.4705 0.0368 1 1
+s5 O2- e 0.1371 0.5369 0.2116 1 1
+s6 O2- e 0.3075 0.6157 0.2267 1 1
+s7 O2- e 0.2556 0.2643 0.2247 1 1
+s8 O2- e 0.1129 0.3853 0.4322 1 1
+s9 O2- e 0.1005 0.9574 0.1822 1 1
+s10 O2- e 0.0305 0.7937 0.4323 1 1
+s11 O2- e 0.4797 0.459 0.1797 1 1
+s12 O2- e 0.4313 0.285 0.4418 1 1
+s13 O2- e 0.3536 0.8594 0.4404 1 1
+s14 O2- e 0.3637 0.0048 0.1142 1 1
+s15 H e 0.148 0.259 0.461 1 1
+s16 H e 0.126 0.428 0.354 1 1
+s17 H e 0.124 0.817 0.196 1 1
+s18 H e 0.156 0.051 0.198 1 1
+s19 H e 0.09 0.87 0.469 1 1
+s20 H e 0.979 0.887 0.387 1 1
+s21 H e 0.421 0.514 0.198 1 1
+s22 H e 0.536 0.475 0.253 1 1
+s23 H e 0.375 0.275 0.369 1 1
+s24 H e 0.413 0.359 0.508 1 1
+s25 H e 0.297 0.91 0.465 1 1
+s26 H e 0.331 0.776 0.365 1 1
+s27 H e 0.313 0.077 0.143 1 1
+s28 H e 0.334 0.894 0.058 1 1

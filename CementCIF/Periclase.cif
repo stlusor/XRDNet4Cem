@@ -1,0 +1,21 @@
+data_global
+_chemical_name_mineral 'Periclase'
+_symmetry_space_group_name_H-M fm3m
+_cell_length_a 4.21700000762939
+_cell_length_b 4.21700000762939
+_cell_length_c 4.21700000762939
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 74.9912867200226
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 MG2+ a 0 0 0 1 0.31
+s2 O2- b 0.5 0.5 0.5 1 0.36

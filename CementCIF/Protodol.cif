@@ -1,0 +1,25 @@
+data_global
+_chemical_name_mineral 'Dolomite disordered'
+_symmetry_space_group_name_H-M r-3
+_cell_length_a 4.81199979782104
+_cell_length_b 4.81199979782104
+_cell_length_c 16.0200004577637
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 120    
+_cell_volume 321.250902705131
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 CA2+ a 0 0 0 0.5 0.7
+s2 MG2+ a 0 0 0 0.5 0.7
+s3 MG2+ b 0 0 0.5 0.5 0.5
+s4 CA2+ b 0 0 0.5 0.5 0.5
+s5 C c 0 0 0.2429 1 0.7
+s6 O f 0.2485 0.9657 0.2439 1 0.8

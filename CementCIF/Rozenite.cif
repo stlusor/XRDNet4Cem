@@ -1,0 +1,37 @@
+data_global
+_chemical_name_mineral 'Rozenite'
+_symmetry_space_group_name_H-M p121/c1
+_cell_length_a 7.97800016403198
+_cell_length_b 13.6470003128052
+_cell_length_c 9.93599987030029
+_cell_angle_alpha 90     
+_cell_angle_beta 143.003997802734
+_cell_angle_gamma 90     
+_cell_volume 650.97697565167
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 FE2+ e 0.1505 0.1026 0.9322 1 0.85
+s2 S e 0.6257 0.1096 0.8021 1 0.7
+s3 O2- e 0.7483 0.0484 0.9929 1 1.4
+s4 O2- e 0.7437 0.0768 0.7463 1 1.4
+s5 O2- e 0.3185 0.0953 0.605 1 1.4
+s6 O2- e 0.6888 0.2133 0.87 1 1.4
+s7 O2- e 0 0.0729 0.6415 1 1.7
+s8 O2- e 0.3171 0.1391 0.2312 1 1.7
+s9 O2- e 0.5584 0.1254 0.1163 1 1.7
+s10 O2- e 0.0334 0.25 0.8174 1 1.7
+s11 H e 0.125 0.07 0.64 1 2.4
+s12 H e 0.879 0.017 0.556 1 2.4
+s13 H e 0.41 0.198 0.318 1 2.4
+s14 H e 0.333 0.098 0.316 1 2.4
+s15 H e 0.697 0.171 0.234 1 2.4
+s16 H e 0.612 0.096 0.065 1 2.4
+s17 H e 0.953 0.242 0.678 1 2.4
+s18 H e 0.139 0.19 0.38 1 2.4

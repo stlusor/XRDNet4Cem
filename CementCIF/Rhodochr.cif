@@ -1,0 +1,22 @@
+data_global
+_chemical_name_mineral 'Rhodochrosite'
+_symmetry_space_group_name_H-M r-3c
+_cell_length_a 4.76700019836426
+_cell_length_b 4.76700019836426
+_cell_length_c 15.6339998245239
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 120    
+_cell_volume 307.67419603371
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 MN2+ b 0 0 0 1 0.51
+s2 C a 0 0 0.25 1 0.48
+s3 O e 0.2699 0 0.25 1 0.66

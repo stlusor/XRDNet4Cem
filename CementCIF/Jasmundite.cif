@@ -1,0 +1,29 @@
+data_global
+_chemical_name_mineral 'Jasmundite'
+_symmetry_space_group_name_H-M i-4m2
+_cell_length_a 10.4610004425049
+_cell_length_b 10.4610004425049
+_cell_length_c 8.8129997253418
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 964.428859107982
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 Ca2+ i 0.2437 0 0.196 1 1.13
+s2 Ca2+ i 0.2583 0 0.7911 1 1.14
+s3 Ca2+ f 0 0.5 0.5032 1 0.79
+s4 Ca2+ b 0.5 0.5 0 1 0.55
+s5 Si4+ g 0.7116 0.7116 0 1 0.46
+s6 O2- j 0.1446 0.1457 0.3523 1 0.78
+s7 O2- j 0.3648 0.1795 0.5062 1 0.68
+s8 O2- c 0 0.5 0.25 1 2.4
+s9 O2- d 0 0.5 0.75 1 0.7
+s10 S a 0 0 0 1 1.36

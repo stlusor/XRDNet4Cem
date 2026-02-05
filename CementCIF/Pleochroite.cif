@@ -1,0 +1,46 @@
+data_global
+_chemical_name_mineral 'Pleochroite (Phase Q)'
+_symmetry_space_group_name_H-M pmmn
+_cell_length_a 27.6380004882813
+_cell_length_b 10.798999786377
+_cell_length_c 5.1230001449585
+_cell_angle_alpha 90     
+_cell_angle_beta 90     
+_cell_angle_gamma 90     
+_cell_volume 1529.02476975726
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s1 Ca2+ g 0.0686 0.9219 0.3136 1 0.25
+s2 Ca2+ f 0.8127 0.25 0.6802 1 0.25
+s3 Ca2+ e 0.25 0.0884 0.2795 1 0.25
+s4 Ca2+ f 0.1249 0.25 0.2773 1 0.25
+s5 Al3+ f 0.8974 0.25 0.2399 1 0.25
+s6 Al3+ g 0.8492 0.9964 0.1975 1 0.25
+s7 Al3+ g 0.9543 0.8989 0.1256 0.75 0.25
+s8 Mg2+ g 0.9543 0.8989 0.1256 0.25 0.25
+s9 Al3+ f 0.0161 0.25 0.3719 0.75 0.25
+s10 Mg2+ f 0.0161 0.25 0.3719 0.25 0.25
+s11 Al3+ e 0.25 0.8929 0.8434 0.625 0.25
+s12 Si4+ e 0.25 0.8929 0.8434 0.375 0.25
+s13 Al3+ f 0.1943 0.25 0.7376 0.625 0.25
+s14 Si4+ f 0.1943 0.25 0.7376 0.375 0.25
+s15 O2- g 0.9568 0.88 0.474 1 0.5
+s16 O2- g 0.8976 0.9463 0.9952 1 0.5
+s17 O2- g 0.8688 0.1205 0.3857 1 0.5
+s18 O2- g 0.7993 0.0383 0.0105 1 0.5
+s19 O2- g 0.8347 0.8741 0.4092 1 0.5
+s20 O2- f 0.0379 0.25 0.0365 1 0.5
+s21 O2- c 0 0 0 1 0.5
+s22 O2- f 0.8971 0.25 0.9018 1 0.5
+s23 O2- f 0.1952 0.25 0.0661 1 0.5
+s24 O2- e 0.25 0.8899 0.5158 1 0.5
+s25 O2- f 0.9541 0.25 0.4063 1 0.5
+s26 O2- a 0.25 0.25 0.5994 1 0.5
+s27 O2- b 0.25 0.75 0.9898 1 0.5
