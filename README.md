@@ -28,7 +28,7 @@
 - **>95% accuracy** for major cement phases
 - **<2 seconds** per sample analysis
 - **±2 wt.% precision** for quantitative estimates
-- **130+ supported phases** covering OPC, CSA, CAC systems
+- **130 supported phases** covering OPC, CSA, CAC systems
 
 ### 🛠️ **User-Friendly Interface**
 - **Graphical User Interface (GUI)** for intuitive operation
@@ -38,41 +38,29 @@
 
 ## 🚀 Quick Start
 
-### For Windows Users (Recommended)
-1. **Download** the latest release from [Releases page](https://github.com/yourusername/XRDNet4Cem/releases)
+### For Windows Users
+1. **Download** the latest release from [Releases page](https://github.com/stlusor/XRDNet4Cem/releases)
 2. **Extract** `XRDNet4Cem_v1.0.zip` to any folder
 3. **Double-click** `XRDNet4Cem.bat`
 4. **Start analyzing** your XRD data!
 
-### For Developers & Researchers
-```bash
-# Clone the repository
-git clone https://github.com/stlusor/XRDNet4Cem.git
-cd XRDNet4Cem
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-python src/main.py
-```
 
 ## 📁 Project Structure
 
 ```
 XRDNet4Cem/
-├── XRDNet4Cem.bat              # Windows launcher
-├── src/                        # Source code
-│   ├── models/                 # Neural network architectures
-│   ├── preprocessing/          # CWT and data processing
-│   ├── simulation/             # Synthetic data generation
-│   ├── gui/                    # Graphical interface
-│   └── utils/                  # Helper functions
-├── trained_models/             # Pre-trained weights
-├── phase_library/              # 130+ cement phases (.cif)
-├── examples/                   # Sample datasets
-├── docs/                       # Documentation
-└── tests/                      # Unit tests
+├── XRDNet4Gem.bat                    # Main launcher - CLICK THIS!
+├── python.exe                        # Embedded Python 3.13
+├── Software_Rievied.py              # Main application script
+├── Model.py                         # Deep learning model
+├── Model/                           # Pre-trained neural networks
+├── CIF/                             # Phase library (.cif files)
+├── Phase_names.csv                  # Phase database
+├── INST_XRY.PRM                     # Instrument parameters
+├── ExperimentRawData/               # Sample XRD data
+├── GSAS-II/                         # Rietveld refinement interface
+├── GSAS_Output/                     # Analysis results
+└── CementXRD/                       # Additional resources
 ```
 
 ## 🔬 Applications
