@@ -115,31 +115,90 @@ XRDNet4Cem/
 - **Quarterly**: New phase additions
 - **Bi-annually**: Major feature updates
 
-## 🤝 Community Contributions
+# 🤝 Community Contributions
 
-### 📥 **We Need Your Data!**
-Help us build the world's most comprehensive cement XRD database by contributing:
+## 📊 **Help Build the World's Largest Cement XRD Database!**
 
-#### **Share Labeled XRD Data**
-- Cement pastes at different hydration ages
-- Clinker samples with known compositions
-- Hydration products with quantitative analysis
-- Experimental XRD patterns with metadata
+We believe that collaborative science drives the fastest progress. Your contributions of high-quality labeled XRD data will help make XRDNet4Cem more accurate, robust, and comprehensive for the entire cement research community.
 
-#### **Expand Phase Library**
-Missing a phase? Submit:
-- **Phase name** and chemical formula
-- **Standard .cif file** (PDF card)
-- **Reference patterns** if available
-- **Relevant publications**
+---
 
-### 🔄 **How to Contribute**
-1. **Data Submission**: Open a GitHub Issue with "[Data]" prefix
-2. **Phase Addition**: Submit .cif files with "[Phase]" prefix
-3. **Bug Reports**: Use "[Bug]" prefix with detailed description
-4. **Feature Requests**: Use "[Feature]" prefix with use case
+### **📁 How to Submit Your Data**
 
-All contributors will be acknowledged in our documentation!
+We've designed a simple, organized submission system with three dedicated folders:
+
+```
+Your_Contribution/
+├── XRD/                          # Folder for XRD pattern files
+│   ├── OPC_7days_hydration.txt
+│   ├── CSA_clinker.csv
+│   └── Blended_cement_28d.xrd
+├── label/                        # Folder for quantitative analysis labels
+│   ├── OPC_7days_hydration_label.csv
+│   ├── CSA_clinker_label.csv
+│   └── Blended_cement_28d_label.csv
+└── phase/                        # Folder for crystallographic information
+    ├── New_Alite_Polymorph.cif
+    ├── Doped_Yeelimite.cif
+    └── Special_AFm_Phase.cif
+```
+
+---
+
+### **📝 Detailed Submission Guidelines**
+
+#### **1. XRD Data Folder (`XRD/`)**
+**What to include:**
+- Raw XRD patterns in any standard format (.txt, .csv, .xrd, .raw, .xy, .dat)
+- Recommended 2θ range: 5-70° for cement analysis
+- Preferred step size: ≤0.02° for better resolution
+
+**File naming convention:**
+```
+Material_System_Property_Condition.extension
+Example: OPC_wc0.4_28d_hydration_25C.txt
+```
+
+**Required data format for .txt/.csv:**
+```
+Angle,Intensity
+5.00,125
+5.02,128
+5.04,132
+...
+```
+
+#### **2. Label Folder (`label/`)**
+**Each label file should correspond to an XRD file with the same base name.**
+
+**Required CSV format:**
+```csv
+Phase_Name,Weight_Percent,Error_Method,Analyst,Date,Notes
+C3S,45.2,1.5,Rietveld,John Doe,2024-03-15,Monoclinic polymorph
+C2S,25.8,1.2,Rietveld,John Doe,2024-03-15,beta-C2S
+C3A,8.5,0.8,Rietveld,John Doe,2024-03-15,Cubic C3A
+C4AF,9.3,0.9,Rietveld,John Doe,2024-03-15,Brownmillerite
+Gypsum,5.2,0.5,Rietveld,John Doe,2024-03-15,Calcium sulfate dihydrate
+Calcite,3.5,0.4,Rietveld,John Doe,2024-03-15,Minor carbonate phase
+Amorphous,2.5,1.0,Estimation,John Doe,2024-03-15,C-S-H gel
+```
+
+**Labeling methods we accept:**
+- ✅ Rietveld refinement (preferred)
+- ✅ Internal standard method
+- ✅ PONKCS method
+- ✅ Reference intensity ratio (RIR)
+- ⚠️ Expert estimation (please note in "Notes" column)
+
+#### **3. Phase Folder (`phase/`)**
+**For any new or unusual phases in your samples:**
+- Provide standard .cif files (Crystallographic Information Files)
+- Sources: ICSD, COD, or your own refined structures
+- Name files descriptively: `Ca3SiO5_Monoclinic.cif`, `Yeelimite_Sr-doped.cif`
+
+**If .cif is unavailable:**
+- Provide PDF card number (e.g., PDF 00-042-0551)
+- Or provide unit cell parameters in a text file
 
 
 ## 🛠️ System Requirements
@@ -165,15 +224,9 @@ All contributors will be acknowledged in our documentation!
 |---------|----------|
 | "Python not found" | The .bat file will auto-install Miniconda |
 | Memory errors | Reduce batch size in Settings |
-| Slow performance | Enable GPU acceleration if available |
 | File format issues | Use the built-in format converter |
 | Missing phases | Submit .cif file via GitHub Issue |
 
-### Getting Help
-- **Documentation**: Complete user guide in `/docs/`
-- **Examples**: Sample workflows in `/examples/`
-- **Issues**: GitHub Issues for bug reports
-- **Email**: xrdnet4cem.support@polyu.edu.hk
 
 ## 📝 Citation
 
