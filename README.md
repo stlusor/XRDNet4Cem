@@ -45,7 +45,7 @@
 4. **Start analyzing** your XRD data!
 
 ## ▶️ Instructions
-**Step 1: Data preprocessing module**:
+**Step 1: Data preprocessing module**
     **Import your XRD data file (.txt, .csv, .xye). The raw diffraction pattern will be displayed. Click the processing buttons in sequence: Resample to standardize the angle range, Subtract Background to remove noise, and Normalize the intensity. Finally, save the processed data or send it to the AI module.**
     
 
@@ -60,7 +60,7 @@
 <img width="1941" height="1104" alt="image" src="https://github.com/user-attachments/assets/6b54fc49-f787-4c16-a54d-1a0f2a3a877c" />
 
 
-**Step 3: Automated refinement module**::
+**Step 3: Automated refinement module**
 
     **Set the path to your local GSAS-II installation. Load the XRD data file and the corresponding CIF files. Select the phases identified by the AI module to include in the refinement. Click Start Refinement. The module will run the Rietveld refinement and display the fitted pattern, quantitative phase results, and a statistical table with refined structural parameters.**
 
